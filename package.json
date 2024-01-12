@@ -10,6 +10,7 @@
     "test-ct": "playwright test -c playwright-ct.config.ts"
   },
   "dependencies": {
+    "element-plus": "^2.5.1",
     "vue": "^3.3.11"
   },
   "devDependencies": {
